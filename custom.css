@@ -1,0 +1,30 @@
+/* custom.css */
+
+.alt {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.alt img {
+    flex: 1;
+    margin-right: 20px;
+    transform: scale(1);
+    width: 100%;
+    max-width: 300px;
+}
+
+.alt div {
+    flex: 2;
+}
+
+@media screen and (max-width: 768px) {
+    .alt {
+        flex-direction: column;
+    }
+
+    .alt img {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
