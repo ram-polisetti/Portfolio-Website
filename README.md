@@ -1,6 +1,6 @@
 # Ram Polisetti - Data Scientist and Engineer
 
-(rampolisetti.com)[rampolisetti.com]
+[rampolisetti.com](rampolisetti.com)
 
 ## About Me
 Hi, I'm Ram - a Data Scientist specializing in statistical modeling, machine learning, and big data analytics. With experience in creating automated data pipelines, implementing real-time data integration, and developing insightful dashboards, I drive data-informed decision-making across industries.
