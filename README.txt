@@ -1,32 +1,53 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Ram Polisetti - Data Scientist and Engineer
+
+## About Me
+Hi, I'm Ram - a Data Scientist specializing in statistical modeling, machine learning, and big data analytics. With experience in creating automated data pipelines, implementing real-time data integration, and developing insightful dashboards, I drive data-informed decision-making across industries.
+
+## Professional Experience
+
+### Data Analyst - JerseyStem, New Jersey (Mar 2024 - Present)
+- Developed automated data pipelines using SQL, Python, and Alteryx
+- Implemented real-time data integration with Postman and Webhooks
+- Created comprehensive reporting systems using AppSheet, Tableau, and Google Data Studio
+- Designed interactive dashboards for real-time decision-making
+
+### Transportation Specialist - Amazon, ATS Linehaul (Nov 2020 - Jul 2022)
+- Automated equipment scheduling and route optimization using Python and SQL
+- Co-led ETL framework design and deployment with Amazon Glue
+- Improved system efficiency and reduced carrier fraud through complex SQL queries on Amazon Redshift
+
+## Education
+
+### Masters in Data Science - SUNY Buffalo, New York (Sept 2022 - Jan 2024)
+- Advanced statistical methods, predictive modeling, and machine learning
+- Data warehousing, data modeling, and cloud computing
+- Proficiency in Python, Spark, PostgreSQL, AWS, Tableau, and PowerBI
+
+### Bachelor of Technology (ECE) - SRKR Engineering College, India (Aug 2020 - Sept 2020)
+- Application development with National Instruments
+- Winner of college website clone competition
+- Top 10 participant in Smart India Hackathon 2018
+
+## Skills
+- Statistical Modeling
+- Machine Learning
+- Big Data Analytics
+- Data Pipeline Automation
+- Real-time Data Integration
+- Dashboard Development
+- SQL and NoSQL Databases
+- Data Visualization (Tableau, PowerBI)
+- Python, SQL, Alteryx
+- Cloud Computing (AWS)
+
+## Interests
+Beyond data science, I enjoy painting and trekking, which inspire creative problem-solving approaches.
+
+## Connect with Me
+- Email: rampolisettius@gmail.com
+- LinkedIn: [Ram Polisetti](https://www.linkedin.com/in/ram-polisetti)
+- GitHub: [rampolisetti](https://github.com/ram-polisetti)
+
+Let's connect and explore how we can create impactful data-driven solutions together!
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
